@@ -14,3 +14,5 @@ Buatlah dengan spesifikasi aplikasi  sebagai berikut :
 
 1. Aplikasi map yang memiliki tampilan Google map sederhana (25 point)
 2. Terdapat 3 tombol untuk mengarahkan kamera ke lokasi pengguna saat ini, lokasi kampus UKDW gedung AGAPE, dan rumah pengguna. (25 point)
+   
+![alt!](https://github.com/UKDW-PemrogAndroid/tugas7GoogleMapsDanUserLocation/blob/main/image%20(4).png)
